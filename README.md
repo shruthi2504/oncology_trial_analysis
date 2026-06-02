@@ -10,7 +10,6 @@ This project performs a basic analysis of an oncology clinical trial dataset. Th
 
 
 
-\---
 
 
 
@@ -35,8 +34,6 @@ The dataset was loaded into a pandas DataFrame and inspected for:
 The profiling step was used to understand data completeness and identify potential data quality issues.
 
 
-
-\---
 
 
 
@@ -70,8 +67,6 @@ The following cleaning steps were performed:
 
 
 
-\---
-
 
 
 \## Success Definition
@@ -97,8 +92,6 @@ All other statuses were treated as non-successful.
 This metric should be interpreted as a trial completion metric rather than evidence of therapeutic or regulatory success.
 
 
-
-\---
 
 
 
@@ -126,8 +119,6 @@ Success Rate = Successful Trials / Total Trials
 
 
 
-\---
-
 
 
 \## Limitations
@@ -150,8 +141,6 @@ Several limitations should be considered:
 
 
 
-\---
-
 
 
 \## Additional Data Needed
@@ -173,8 +162,6 @@ To define a more meaningful success metric, the following information would be u
 \* Phase transition information
 
 
-
-\---
 
 
 
